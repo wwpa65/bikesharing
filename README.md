@@ -17,8 +17,11 @@ Tools:
 
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
-The Dashboard and the Story was saved in thr Tableau Public site. 
+The Dashboard and the Story was saved in thr Tableau Public site.
+- Link to the Project: [Bike Share Project](https://public.tableau.com/views/Module14-Challenge_16544762101330/TripsbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 - Link to the dashboard: [Bicycle Rides](https://public.tableau.com/views/Module14-Challenge_16544762101330/BicycleSharing?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 - Link to the Story: [Bike Share](https://public.tableau.com/views/Module14-Challenge_16544762101330/BikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
