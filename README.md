@@ -6,6 +6,9 @@
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
 
+
+[Link to Story in Tableau](https://public.tableau.com/views/Module14-Challenge_16544762101330/BikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link))
+
 ![Checkout time](/images/checkout_time_for_users.png)
 
 
