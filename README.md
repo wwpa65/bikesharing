@@ -16,7 +16,7 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
-[Link to Dashboard in Tableau](XXX)
+[Link to Dashboard in Tableau](https://public.tableau.com/views/Module14-Challenge_16544762101330/TripsbyBirthYearbyUserType?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Link to Story in Tableau](https://public.tableau.com/views/Module14-Challenge_16544762101330/BikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link))
 
