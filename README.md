@@ -56,7 +56,7 @@ The checked out trip duration is mostly within 1 hour (50 minutes). However, the
 
 **C. Show the number of bike trips for all riders and genders for each hour of each day of the week**
 
-The histogram (Figure 6) The peak usage time was between 6:00-9:00 am for the morning and between  5:00-8:00 pm. Monday, Tuesday, and Thursday (and Friday to some extent) were the days where there was heavy usage of the bikes. It may be possible that the rides used bikes to go to work. However, people also used bikes on Saturday and Sunday  (~7:00 am - ~8:00 pm)  meaning that they may have used bike rides for other purposes as well. It should be noted that these riders might be tourists since these records are from August, which is a month in the Summer.
+The histogram (Figure 6) The peak usage time was between 6:00-9:00 AM for the morning and between  5:00-7:00 PM. Monday, Tuesday, and Thursday (and Friday to some extent) were the days where there was heavy usage of the bikes. It may be possible that the rides used bikes to go to work. However, people also used bikes on Saturday and Sunday (~7:00 AM - ~8:00 PM)  meaning that they may have used bike rides for other purposes as well. It should be noted that these riders might be tourists since these records are from August, which is a month in the Summer.
 
 These trip days and times do not show a gender dependance (Figure 7). 
 
@@ -79,6 +79,10 @@ When considering the user type, it is obvious that the subscribers are dominatin
 **Figure 8**. Histogram showing the user trips by gender and day of the week
 
 
+Additional analysis (below) shows that there are some starting locations (and destinations) that do not have subscribers (Figure 9).
+- Packed Bubble chart (Figure 10) shows that there is some pattern for some bike riders based on their birth year and the user type. For example, those born on 1969 were the highest number of users of bikes and they were found to be non-subscribers. 
+
+
 ## ADDITIONAL VISUALIZATIONS
 
 
@@ -91,8 +95,31 @@ When considering the user type, it is obvious that the subscribers are dominatin
 ![Trips by user type by birth year](/images/trips_by_usertype_by_birthyear.png)
 
 **Figure 10**. XX  
+## Summary: 
+
+Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+We have visualized bike ride share information obtained from NY Citibike Ride Share program (August 2019). 
+
+Our analysis shows that:
+- There are top starting and destination (ending) locations (Hubs).
+- There are more subscribers compared to non-subscribers (customers
+- The peak day of ride share is Thursday (Thursday > Friday > Tuesday > Monday > Saturday > Wednesday > Sunday).
+- The peak time of the usage is 6:00-9:00 AM IN the morning and 5:00-7:00 PM in the evening.
+- There were no gender dependance on peak usage time or day
+
+## Additional Analysis
+
+- Some starting locations (and destinations) that do not have subscribers.
+- Packed Bubble chart hows that there is some pattern for some bike riders based on their birth year and the user type.
 
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+**For initiating a new business in Des Moines, Iowa,** it is possible to get some insights from our analysis of the NY Citi Bike data.
+For example, these are some suggestions for consideration:
 
-
+1. Identify potential key starting and destination locations as hubs.
+2. Introduce subscription service.
+    - Discounts
+    - Easier access to bikes, such as secure key etc.
+3. For key locations, providing increased supply and increased repair services for bikes are essentially needed.
+4. A system to replenish bicycles in the top starting destinations is needed as demand is increased.
+    - e.g., moving cycles to stations with more demands from end locations (or other stations) by using trailers or truckds etc.). 
