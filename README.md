@@ -1,7 +1,9 @@
 # bikesharing
 
+## Overview of the analysis: Explain the purpose of this analysis.
 
 
+## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
 
 ![Checkout time](/images/checkout_time_for_users.png)
@@ -25,5 +27,6 @@
 
 ![Trips by user type by birth year](/images/trips_by_usertype_by_birthyear.png)
 
+## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 
