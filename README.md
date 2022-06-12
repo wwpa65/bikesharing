@@ -88,13 +88,14 @@ Additional analysis (below) shows that there are some starting locations (and de
 
 ![Trips by user type](/images/trips_by_usertype.png)
 
-
-**Figure 9**. XX  
+**Figure 9**. Trips by user type at starting locations. Orange: Subscribers; Blue: Non-Subscribers.
 
 
 ![Trips by user type by birth year](/images/trips_by_usertype_by_birthyear.png)
 
-**Figure 10**. XX  
+**Figure 10**. Trips by user type (color) by birth year (year). Size of the circle depicts the number of rides used by users born on that particulr year.
+
+
 ## Summary: 
 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
