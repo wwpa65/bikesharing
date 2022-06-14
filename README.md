@@ -17,6 +17,8 @@ Tools:
 
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
+LINKS TO CSV FILES: [Original File](https://github.com/wwpa65/Files_LFS/blob/19b2b5f9791826aeeaea719758fb15ea8ea4a82d/201908-citibike-tripdata.csv), [Converted File](https://github.com/wwpa65/Files_LFS/blob/19b2b5f9791826aeeaea719758fb15ea8ea4a82d/201908-citibike-tripdata_converted.csv)
+
 The Dashboard and the Story was saved in thr Tableau Public site.
 - Link to the Project: [Bike Share Project](https://public.tableau.com/views/Module14-Challenge_16544762101330/TripsbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
 
